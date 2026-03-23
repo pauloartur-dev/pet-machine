@@ -35,7 +35,7 @@ Certifique-se de ter o JDK instalado em sua máquina.
 Clone este repositório:
 
 Bash
-git clone https://github.com/pauloartur-dev/PETMACHINE.git
+git clone https://github.com/pauloartur-dev/pet-machine.git
 Navegue até a pasta do projeto:
 
 Bash
