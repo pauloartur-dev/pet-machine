@@ -1,4 +1,4 @@
-# 🐾 PETMACHINE - Sistema de Gerenciamento de Banhos
+# 🐾 pet-machine - Sistema de Gerenciamento de Banhos
 
 Este projeto foi desenvolvido para consolidar meus conhecimentos em **Programação Orientada a Objetos (POO)** e **Tratamento de Exceções** em Java. O sistema simula o controle de serviços de um pet shop, focando em segurança de dados e organização de código.
 
@@ -11,13 +11,13 @@ Este projeto foi desenvolvido para consolidar meus conhecimentos em **Programaç
 
 ## 🎓 Aplicação Prática de Certificação
 
-Este repositório é a aplicação real dos conhecimentos teóricos obtidos na plataforma **DIO (Digital Innovation One)**.
+[cite_start]Este repositório é a aplicação real dos conhecimentos teóricos obtidos na plataforma **DIO (Digital Innovation One)**[cite: 3, 11].
 
 ### **Java e a Arte da Abstração com Classes e Encapsulamento**
-* **Instituição:** DIO
-* **Carga Horária:** 2 horas
-* **Conclusão:** 22 de Março de 2026
-* **ID de Verificação:** `CQRJTU6D`
+* [cite_start]**Instituição:** DIO [cite: 3, 11]
+* [cite_start]**Carga Horária:** 2 horas [cite: 8]
+* [cite_start]**Conclusão:** 22 de Março de 2026 [cite: 6]
+* [cite_start]**ID de Verificação:** `CQRJTU6D` [cite: 10]
 
 <p align="center">
   <img src="certificado-java.png" alt="Certificado Java DIO - Paulo Artur" width="70%">
@@ -34,4 +34,9 @@ Como aluno de Ciência da Computação na **UFERSA**, foquei em aplicar os pilar
 ## 🛠️ Como rodar o projeto
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/pauloartur-dev/PETMACHINE.git](https://github.com/pauloartur-dev/PETMACHINE.git)
+   git clone [https://github.com/pauloartur-dev/pet-machine.git](https://github.com/pauloartur-dev/pet-machine.git)
+Abra no VS Code.
+
+Execute a classe principal no diretório src.
+
+Desenvolvido por Paulo Artur Aragão Sousa  👨‍💻
