@@ -1,54 +1,37 @@
-🚀 PetMachine - Sistema de Banho Automatizado
-Este é um projeto desenvolvido em Java que simula o funcionamento de uma máquina de banho para pets. O foco principal deste sistema é a aplicação de conceitos fundamentais de Programação Orientada a Objetos (POO) e a construção de uma interface de linha de comando robusta com tratamento de erros.
+# 🐾 PETMACHINE - Sistema de Gerenciamento de Banhos
 
-🛠️ Tecnologias Utilizadas
-Linguagem: Java 17+
+Este projeto foi desenvolvido para consolidar meus conhecimentos em **Programação Orientada a Objetos (POO)** e **Tratamento de Exceções** em Java. O sistema simula o controle de serviços de um pet shop, focando em segurança de dados e organização de código.
 
-Ferramentas: VS Code / NetBeans
+## 🚀 Tecnologias e Conceitos
+* **Linguagem:** Java 17
+* **Conceitos aplicados:** Abstração, Encapsulamento, Herança e Polimorfismo.
+* **Segurança:** Tratamento de erros com blocos `try-catch` e exceções personalizadas.
 
-Conceitos Aplicados:
+---
 
-Encapsulamento (private/public).
+## 🎓 Aplicação Prática de Certificação
 
-Métodos e Atributos Estáticos.
+Este repositório é a aplicação real dos conhecimentos teóricos obtidos na plataforma **DIO (Digital Innovation One)**.
 
-Tratamento de Exceções (try-catch, NumberFormatException).
+### **Java e a Arte da Abstração com Classes e Encapsulamento**
+* **Instituição:** DIO
+* **Carga Horária:** 2 horas
+* **Conclusão:** 22 de Março de 2026
+* **ID de Verificação:** `CQRJTU6D`
 
-Manipulação de entrada de dados com Scanner.
+<p align="center">
+  <img src="certificado-java.png" alt="Certificado Java DIO - Paulo Artur" width="70%">
+</p>
 
-📌 Funcionalidades
-O sistema oferece um menu interativo com as seguintes opções:
+### 🛠️ O que implementei com base neste curso:
+Como aluno de Ciência da Computação na **UFERSA**, foquei em aplicar os pilares do Back-End de forma profissional:
+1.  **Abstração:** Definição de classes modelo para os Pets e Serviços, impedindo instâncias incompletas no sistema.
+2.  **Encapsulamento:** Todos os atributos sensíveis estão como `private`, sendo acessados apenas por Getters e Setters validados.
+3.  **Gestão de Erros:** Implementei uma lógica onde o sistema não "quebra" caso ocorra uma entrada inválida, informando o erro de forma amigável ao usuário.
 
-[x] Gerenciamento de Insumos: Abastecer e verificar níveis de água e shampoo.
+---
 
-[x] Controle de Fluxo: Colocar um pet na máquina e retirá-lo após o serviço.
-
-[x] Operação de Banho: Executar o ciclo de banho (consome insumos).
-
-[x] Manutenção: Limpeza interna da máquina.
-
-[x] Interface Segura: Prevenção de erros caso o usuário digite letras em campos numéricos.
-
-💻 Como Rodar o Projeto
-Certifique-se de ter o JDK instalado em sua máquina.
-
-Clone este repositório:
-
-Bash
-git clone https://github.com/pauloartur-dev/pet-machine.git
-Navegue até a pasta do projeto:
-
-Bash
-cd pet-machine-java
-Compile e execute a classe principal:
-
-Bash
-javac App.java
-java App
-
-
-🧠 Desafios Vencidos
-Durante o desenvolvimento, um dos maiores desafios foi lidar com o comportamento do buffer do Scanner no Java. Foi implementada uma solução utilizando Integer.parseInt(scanner.nextLine()) dentro de um bloco try-catch, garantindo que o programa não encerre abruptamente caso ocorra um erro de entrada (InputMismatchException).
-
-👤 Autor
-Paulo Artur Aragão Estudante de Ciência da Computação - UFERSA (3º Período)
+## 🛠️ Como rodar o projeto
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/pauloartur-dev/PETMACHINE.git](https://github.com/pauloartur-dev/PETMACHINE.git)
