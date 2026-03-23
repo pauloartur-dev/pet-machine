@@ -11,13 +11,13 @@ Este projeto foi desenvolvido para consolidar meus conhecimentos em **Programaç
 
 ## 🎓 Aplicação Prática de Certificação
 
-[cite_start]Este repositório é a aplicação real dos conhecimentos teóricos obtidos na plataforma **DIO (Digital Innovation One)**[cite: 3, 11].
+Este repositório é a aplicação real dos conhecimentos teóricos obtidos na plataforma **DIO (Digital Innovation One)**[cite: 3, 11].
 
 ### **Java e a Arte da Abstração com Classes e Encapsulamento**
-* [cite_start]**Instituição:** DIO [cite: 3, 11]
-* [cite_start]**Carga Horária:** 2 horas [cite: 8]
-* [cite_start]**Conclusão:** 22 de Março de 2026 [cite: 6]
-* [cite_start]**ID de Verificação:** `CQRJTU6D` [cite: 10]
+* **Instituição:** DIO [cite: 3, 11]
+* **Carga Horária:** 2 horas [cite: 8]
+* **Conclusão:** 22 de Março de 2026 [cite: 6]
+* **ID de Verificação:** `CQRJTU6D` [cite: 10]
 
 <p align="center">
   <img src="certificado-java.png" alt="Certificado Java DIO - Paulo Artur" width="70%">
